@@ -1,3 +1,10 @@
+@font-face {
+    font-family:DS-Digital ;
+    src:url("/Fonts/DS-DIGI.TTF");
+}
+
+
+
 *{
     margin: 0;
     padding: 0;
